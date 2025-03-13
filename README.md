@@ -1,4 +1,4 @@
-# TuneUp Task Web  
+# TuneUp Task App  
 
 ## Real-Time Chat Application  
 
